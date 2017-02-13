@@ -1,0 +1,3 @@
+scrapy crawl mclcinemaShowingList -o movies.json
+scrapy crawl mclmoviedetail -o moviesDetail.json
+scrapy crawl seatplan -o seatplan.json
